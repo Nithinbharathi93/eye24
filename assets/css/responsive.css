@@ -53,7 +53,7 @@
 	#mainSlider .carousel-indicators li::after {
 		position: absolute;
 		content: '';
-		background: #17a2b8;
+		background: #82b60b;
 		width: 100%;
 		height: 60%;
 		bottom: 0;
