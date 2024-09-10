@@ -76,7 +76,7 @@
 }
 .main-menu .navigation > li > ul > li > a:hover,
 .main-menu .navigation > li > ul > li.current-menu-item > a {
-    color: #91bf29;
+    color: #00235a;
 }
 .main-menu .navigation > li > ul > li ul {
     position: absolute;

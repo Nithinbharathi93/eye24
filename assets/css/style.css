@@ -61,7 +61,7 @@ textarea::-webkit-scrollbar {
 
 body::-webkit-scrollbar-thumb,
 textarea::-webkit-scrollbar-thumb {
-    background: #82b60b;
+    background: #17a2b8;
     min-height: 62px
 }
 
@@ -76,7 +76,7 @@ a:focus {
 
 a {
     transition: all .3s ease;
-    color: #91bf29;
+    color: #00235a;
 }
 
 h1,
@@ -164,12 +164,12 @@ figure img {
 
 ::-moz-selection {
     color: #fff;
-    background: #91bf29;
+    background: #00235a;
     text-shadow: none;
 }
 
 ::selection {
-    background: #91bf29;
+    background: #00235a;
     color: #fff;
     text-shadow: none;
 }
@@ -232,7 +232,7 @@ figure img {
     transition: all .3s ease-in-out;
 }
 .scroll-to-top:hover {
-    background: #91bf29;
+    background: #00235a;
     color: #fff;
 }
 
@@ -347,7 +347,7 @@ figure img {
     margin-top: 30px;
     padding: 10px 25px 8px;
     display: inline-block;
-    background: #82b60b;
+    background: #17a2b8;
     color: #fff;
 }
 
@@ -441,7 +441,7 @@ figure img {
     border-radius: 40px;
     font-size: 18px;
     font-weight: 500;
-    background: #82b60b;
+    background: #17a2b8;
     color: #fff;
     cursor: pointer;
     transition: all .5s ease;
@@ -570,7 +570,7 @@ figure img {
 
 #mainSlider [class^="carousel-control-"]:hover,
 #mainSlider [class^="carousel-control-"]:focus {
-    background: #91bf29;
+    background: #00235a;
     color: #fff;
 }
 
@@ -607,7 +607,7 @@ figure img {
 }
 
 #mainSlider .carousel-indicators li.active {
-    background: #82b60b;
+    background: #17a2b8;
     position: relative;
 }
 
@@ -736,7 +736,7 @@ figure img {
 }
 
 .feature-single > a:hover {
-    background: #82b60b;
+    background: #17a2b8;
 }
 
 .feature-single > a > span {
@@ -750,7 +750,7 @@ figure img {
 
 .feature-single > a > i {
     font-size: 50px;
-    color: #82b60b;
+    color: #17a2b8;
     transition: all .3s ease .1s;
 }
 
@@ -770,7 +770,7 @@ figure img {
 }
 
 .slick-dots .slick-active {
-    background: #91bf29;
+    background: #00235a;
 }
 
 .slick-dots {
@@ -804,7 +804,7 @@ figure img {
 .about-content > h4 {
     font-size: 17px;
     line-height: 28px;
-    color: #82b60b;
+    color: #17a2b8;
     margin-top: 12px;
     margin-bottom: 25px;
 }
@@ -949,7 +949,7 @@ figure img {
 }
 
 .welcomeTab-list li a.active {
-    background: #82b60b;
+    background: #17a2b8;
 }
 
 .welcomeTab-list {
@@ -1034,7 +1034,7 @@ figure img {
 }
 
 .service-single:hover .service-card {
-    background: #82b60b;
+    background: #17a2b8;
 }
 
 .service-single .service-card {
@@ -1171,7 +1171,7 @@ figure img {
     border-radius: 100%;
     text-align: center;
     font-size: 20px;
-    background: #82b60b;
+    background: #17a2b8;
     color: #fff;
 }
 
@@ -1357,7 +1357,7 @@ figure img {
     height: 62px;
     right: 0;
     top: 0;
-    background: #82b60b;
+    background: #17a2b8;
 }
 
 .widget-single .searchform::after {
@@ -1441,7 +1441,7 @@ figure img {
 }
 
 .widget-single > ul > li > a:hover {
-    background: #82b60b;
+    background: #17a2b8;
 }
 
 .widget-single .download-btn {
@@ -1455,7 +1455,7 @@ figure img {
 }
 
 .widget-single .download-btn:hover {
-    background: #82b60b;
+    background: #17a2b8;
 }
 
 .widget-single .download-btn::after {
@@ -1558,7 +1558,7 @@ figure img {
     border-radius: 100%;
     text-align: center;
     display: block;
-    background: #82b60b;
+    background: #17a2b8;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -1619,7 +1619,7 @@ figure img {
 }
 
 .team-section .team-member:hover > figcaption {
-    border-left: 8px solid #82b60b;
+    border-left: 8px solid #17a2b8;
 }
 
 .team-section .team-member > figcaption > h3 {
@@ -1635,7 +1635,7 @@ figure img {
     font-size: 15px;
     font-weight: 500;
     line-height: 26px;
-    color: #82b60b;
+    color: #17a2b8;
 }
 
 .team-members .team-member {
@@ -1665,7 +1665,7 @@ figure img {
     content: '';
     width: 100%;
     height: 100%;
-    background: rgba(130, 182, 11, .97);
+    background: rgba(23, 162, 184);
     top: 0;
     left: 0;
     z-index: -1;
@@ -1882,7 +1882,7 @@ figure img {
 
 .reviewed-by > span {
     font-size: 15px;
-    color: #82b60b;
+    color: #17a2b8;
 }
 /*** 
 ====================================================================
@@ -1915,7 +1915,7 @@ figure img {
 
 .contact-single > i {
     font-size: 70px;
-    color: #82b60b;
+    color: #17a2b8;
 }
 
 .contact-single > h4 {
@@ -1943,7 +1943,7 @@ figure img {
 }
 
 .contact-single:hover {
-    background: #82b60b;
+    background: #17a2b8;
 }
 
 .contact-form-area {
@@ -1971,7 +1971,7 @@ figure img {
 
 .contact-form input:not([type="radio"]):not([type="checkbox"]):not([type="file"]):focus,
 .contact-form textarea:focus {
-    box-shadow: inset 0 0 0 1px #82b60b;
+    box-shadow: inset 0 0 0 1px #17a2b8;
 }
 
 .contact-form input:not([type="radio"]):not([type="checkbox"]):not([type="file"])::-webkit-input-placeholder,
@@ -2043,7 +2043,7 @@ figure img {
     font-weight: 700;
     display: block;
     text-align: center;
-    color: #82b60b;
+    color: #17a2b8;
     background: #fff;
     text-shadow: 10px 10px 0 rgba(130, 182, 11, 0.1);
     margin-bottom: 76px;
@@ -2051,7 +2051,7 @@ figure img {
 }
 
 .error-content .col:nth-child(2) span {
-    background: #82b60b;
+    background: #17a2b8;
     color: #fff;
     margin-top: 0;
     text-shadow: 10px 10px 0 rgba(255, 255, 255, 0.1);
@@ -2096,7 +2096,7 @@ figure img {
 }
 
 .error-content a:hover {
-    background: #82b60b;
+    background: #17a2b8;
 }
 
 .error-content a > i {
@@ -2152,7 +2152,7 @@ footer {
     width: 100%;
     height: 100%;
     background: rgba(0, 35, 90, .96);
-    box-shadow: inset 0 -6px 0 #82b60b;
+    box-shadow: inset 0 -6px 0 #17a2b8;
     top: 0;
     left: 0;
     z-index: -1;
@@ -2201,7 +2201,7 @@ footer {
 .footer-gallery figure > a {
     display: block;
     position: relative;
-    background: #82b60b;
+    background: #17a2b8;
 }
 
 .footer-gallery figure > a::before,
@@ -2277,7 +2277,7 @@ footer {
 .footer-contact p > i {
     font-size: 20px;
     line-height: 30px;
-    color: #82b60b;
+    color: #17a2b8;
 }
 
 .footer-contact p > span {
@@ -2306,7 +2306,7 @@ footer {
 }
 
 .footer-social > a:hover {
-    box-shadow: inset 0 0 0 25px #82b60b;
+    box-shadow: inset 0 0 0 25px #17a2b8;
 }
 
 .footer-social > a > i {
@@ -2328,7 +2328,7 @@ footer {
 }
 
 .footer-col ul li:hover {
-    color: #82b60b
+    color: #17a2b8
 }
 
 .footer-col ul li + li {
@@ -2353,7 +2353,7 @@ footer {
 }
 
 .footer-col ul li > a:hover {
-    color: #82b60b
+    color: #17a2b8
 }
 
 .footer-col ul li > a::before {
@@ -2377,7 +2377,7 @@ footer {
 
 .footer-bottom {
     padding: 20px 0;
-    background: #82b60b;
+    background: #17a2b8;
 }
 
 .footer-bottom p {
