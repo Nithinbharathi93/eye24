@@ -2004,6 +2004,7 @@ figure img {
 
 .contact-form [type="submit"] {
     margin-top: 44px;
+    margin-bottom: 20px;
 }
 
 .contact-map {
@@ -2185,6 +2186,7 @@ footer {
 
 .footer-top + .footer-middle {
     padding: 5px 0 75px;
+    margin-right: 250px;
 }
 
 .footer-gallery {
