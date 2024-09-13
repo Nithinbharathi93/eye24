@@ -41,7 +41,7 @@
     display: none;
 }
 .main-menu .navigation > li > a {
-    color: #00235a;
+    color: #ffffff;
     display: block;
     margin: 0 10px;
     font-size: 14px;
@@ -120,7 +120,7 @@
     -o-transition: all 500ms ease;
 }
 .main-menu .navigation > li > ul > li > ul > li a:hover {
-    color: #F82462;
+    color: #ffffff;
 }
 .main-menu .navigation > li.dropdown:hover > ul {
     visibility: visible;
@@ -155,7 +155,7 @@
 .main-menu .navigation > li:hover > a,
 .main-menu .navigation > li.current-menu-item > a,
 .main-menu .navigation > li.current-menu-parent > a {
-    background: #f3f8ec;
+    background: #17a2b8;
 }
 
 /* ============ Start Sticky Header css ============*/
