@@ -274,18 +274,19 @@
     .main-menu .navbar-header .navbar-toggle {
         float: right;
         cursor: pointer;
-        margin-top: 1px;
+        margin-top: 30px;
         background: transparent;
+        
     }
     .main-menu .navbar-header .navbar-toggle .icon-bar {
         background: #222;
         height: 3px;
-        width: 29px;
+        width: 30px;
         display: block;
         margin: 7px 5px;
     }
     .fixed-header .main-menu .navbar-header .navbar-toggle .icon-bar {
-        background: #243E63;
+        background: #fff;
     }
     .main-menu .collapse {
         max-height: 325px;

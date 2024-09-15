@@ -1595,7 +1595,7 @@ figure img {
 ====================================================================
  ***/
 .team-section {
-    padding: 150px 0 100px;
+    padding: 90px 0 100px;
 }
 
 .team-member {
@@ -2185,6 +2185,7 @@ footer {
 
 .footer-middle {
     padding: 125px 0;
+   
 }
 
 .footer-top + .footer-middle {
