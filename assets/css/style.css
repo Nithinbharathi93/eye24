@@ -41,6 +41,7 @@ CSS INDEX
     padding: 0px;
     border: 0;
     outline: 0;
+    justify-content: center;
 }
 
 body {
@@ -2255,6 +2256,7 @@ footer {
 
 .footer-col {
     margin-bottom: 50px;
+    width:fit-content;
 }
 
 .footer-col > h2 {
@@ -2263,6 +2265,8 @@ footer {
     font-weight: 700;
     color: #00235a;
     margin-bottom: 35px;
+    
+
 }
 
 .footer-contact p {
@@ -2329,6 +2333,7 @@ footer {
     color: #222;
     padding-left: 32px;
     transition: all .3s ease;
+    
 }
 
 .footer-col ul li:hover {
