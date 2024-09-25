@@ -273,6 +273,26 @@ figure img {
 .section-header:not(.text-white) > p {
     color: #555752;
 }
+  
+  .innerPage-banner {
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .innerPage-banner:hover {
+    opacity: 0.9;
+    transform: scale(1.1);
+  }
+  
+  .pageBanner-content h1 {
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .pageBanner-content h1:hover {
+    color: #ccc;
+    transform: translateY(-5px);
+  }
+
+ 
 /*** 
 ====================================================================
     End Section Header CSS
