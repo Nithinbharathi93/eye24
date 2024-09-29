@@ -1047,6 +1047,9 @@ figure img {
 .service-single figure a img {
     width: 100%;
     height: 100%;
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
 }
 
 .service-single .service-card {
@@ -1739,7 +1742,7 @@ figure img {
     position: relative;
 }
 
-.partners-container figure > a::before {
+/* .partners-container figure > a::before {
     position: absolute;
     content: '';
     width: calc(100% + 1px);
@@ -1747,8 +1750,9 @@ figure img {
     border: 1px solid rgba(255, 255, 255, .175);
     top: 0;
     left: 0;
-}
+} */
 
+/* 
 .hover-img {
     position: absolute;
     top: 50%;
@@ -1756,24 +1760,24 @@ figure img {
     -webkit-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-    visibility: hidden;
     opacity: 0;
-    transition: all .3s ease;
+    transition: all .1s ease-in-out;
 }
 
-.partners-container figure > a:hover {
+/* .partners-container figure > a:hover {
     background: #fff;
-}
+} */
 
 .partners-container figure > a:hover .hover-img {
     visibility: visible;
     opacity: 1;
-}
+    transition:all .1s ease-in-out;
+} */
 
-.partners-container figure > a:hover img:not(.hover-img) {
+/* .partners-container figure > a:hover img:not(.hover-img) {
     visibility: hidden;
     opacity: 0;
-}
+} */
 
 .footer-space {
     margin-bottom: 270px;
@@ -2236,7 +2240,7 @@ footer {
 
 .footer-top + .footer-middle {
     padding: 5px 0 75px;
-    margin-right: 430px;
+    margin: 0px 100px;
 }
 
 .footer-gallery {
